@@ -1,0 +1,29 @@
+C:\Users\dorsettimartinez\source\repos\Panaderia\Panaderia\bin\Debug\net8.0\Panaderia.exe
+C:\Users\dorsettimartinez\source\repos\Panaderia\Panaderia\bin\Debug\net8.0\Panaderia.deps.json
+C:\Users\dorsettimartinez\source\repos\Panaderia\Panaderia\bin\Debug\net8.0\Panaderia.runtimeconfig.json
+C:\Users\dorsettimartinez\source\repos\Panaderia\Panaderia\bin\Debug\net8.0\Panaderia.dll
+C:\Users\dorsettimartinez\source\repos\Panaderia\Panaderia\bin\Debug\net8.0\Panaderia.pdb
+C:\Users\dorsettimartinez\source\repos\Panaderia\Panaderia\obj\Debug\net8.0\Panaderia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dorsettimartinez\source\repos\Panaderia\Panaderia\obj\Debug\net8.0\Panaderia.AssemblyInfoInputs.cache
+C:\Users\dorsettimartinez\source\repos\Panaderia\Panaderia\obj\Debug\net8.0\Panaderia.AssemblyInfo.cs
+C:\Users\dorsettimartinez\source\repos\Panaderia\Panaderia\obj\Debug\net8.0\Panaderia.csproj.CoreCompileInputs.cache
+C:\Users\dorsettimartinez\source\repos\Panaderia\Panaderia\obj\Debug\net8.0\Panaderia.sourcelink.json
+C:\Users\dorsettimartinez\source\repos\Panaderia\Panaderia\obj\Debug\net8.0\Panaderia.dll
+C:\Users\dorsettimartinez\source\repos\Panaderia\Panaderia\obj\Debug\net8.0\refint\Panaderia.dll
+C:\Users\dorsettimartinez\source\repos\Panaderia\Panaderia\obj\Debug\net8.0\Panaderia.pdb
+C:\Users\dorsettimartinez\source\repos\Panaderia\Panaderia\obj\Debug\net8.0\Panaderia.genruntimeconfig.cache
+C:\Users\dorsettimartinez\source\repos\Panaderia\Panaderia\obj\Debug\net8.0\ref\Panaderia.dll
+C:\Users\dorsettimartinez\Desktop\Parcial Programacion 2 24-10-2024\Panaderia\Panaderia\bin\Debug\net8.0\Panaderia.exe
+C:\Users\dorsettimartinez\Desktop\Parcial Programacion 2 24-10-2024\Panaderia\Panaderia\bin\Debug\net8.0\Panaderia.deps.json
+C:\Users\dorsettimartinez\Desktop\Parcial Programacion 2 24-10-2024\Panaderia\Panaderia\bin\Debug\net8.0\Panaderia.runtimeconfig.json
+C:\Users\dorsettimartinez\Desktop\Parcial Programacion 2 24-10-2024\Panaderia\Panaderia\bin\Debug\net8.0\Panaderia.dll
+C:\Users\dorsettimartinez\Desktop\Parcial Programacion 2 24-10-2024\Panaderia\Panaderia\bin\Debug\net8.0\Panaderia.pdb
+C:\Users\dorsettimartinez\Desktop\Parcial Programacion 2 24-10-2024\Panaderia\Panaderia\obj\Debug\net8.0\Panaderia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dorsettimartinez\Desktop\Parcial Programacion 2 24-10-2024\Panaderia\Panaderia\obj\Debug\net8.0\Panaderia.AssemblyInfoInputs.cache
+C:\Users\dorsettimartinez\Desktop\Parcial Programacion 2 24-10-2024\Panaderia\Panaderia\obj\Debug\net8.0\Panaderia.AssemblyInfo.cs
+C:\Users\dorsettimartinez\Desktop\Parcial Programacion 2 24-10-2024\Panaderia\Panaderia\obj\Debug\net8.0\Panaderia.csproj.CoreCompileInputs.cache
+C:\Users\dorsettimartinez\Desktop\Parcial Programacion 2 24-10-2024\Panaderia\Panaderia\obj\Debug\net8.0\Panaderia.dll
+C:\Users\dorsettimartinez\Desktop\Parcial Programacion 2 24-10-2024\Panaderia\Panaderia\obj\Debug\net8.0\refint\Panaderia.dll
+C:\Users\dorsettimartinez\Desktop\Parcial Programacion 2 24-10-2024\Panaderia\Panaderia\obj\Debug\net8.0\Panaderia.pdb
+C:\Users\dorsettimartinez\Desktop\Parcial Programacion 2 24-10-2024\Panaderia\Panaderia\obj\Debug\net8.0\Panaderia.genruntimeconfig.cache
+C:\Users\dorsettimartinez\Desktop\Parcial Programacion 2 24-10-2024\Panaderia\Panaderia\obj\Debug\net8.0\ref\Panaderia.dll

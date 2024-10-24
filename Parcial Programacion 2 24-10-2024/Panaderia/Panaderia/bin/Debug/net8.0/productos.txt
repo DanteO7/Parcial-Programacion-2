@@ -1,0 +1,2 @@
+pan integral, 1500, Pan
+pastel de chocolate, 5000, Pastel
